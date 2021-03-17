@@ -1,1 +1,2 @@
-# how-to-help
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
